@@ -1,0 +1,17 @@
+# Bağımlılıklar
+node_modules/
+
+# Ortam değişkenleri (API anahtarları burada!)
+.env
+
+# WhatsApp oturum verileri (giriş bilgileri burada saklanır)
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Log dosyaları
+*.log
+npm-debug.log*
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
